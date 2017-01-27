@@ -1,0 +1,4 @@
+.metric-chart { margin-bottom: 20px; }
+.issue-num-wrapper { display: flex; flex-direction: column; align-items: center; }
+.issue-num-header { margin-bottom: 0; }
+.issue-num { display: inline-block; font-size: 8em; line-height: 1; }

@@ -1,0 +1,74 @@
+[
+{
+	"submissionTime": "2016-03-07T14:48:12",
+	"customerName": "Valerie",
+	"customerEmail": "irridattarr-9518@yopmail.com",
+	"description": "Unsafe column headers",
+	"status": "closed",
+	"closedTime": "2016-03-14T12:03:09",
+	"employeeName": "Amy"
+},
+{
+	"submissionTime": "2016-05-02T10:42:53",
+	"customerName": "Cynthia",
+	"customerEmail": "Lipeove77@teleworm.us",
+	"description": "Lazy loading pagination",
+	"status": "closed",
+	"closedTime": "2016-04-01T20:41:49",
+	"employeeName": "Jimmy"
+},
+{
+	"submissionTime": "2016-07-23T17:08:29",
+	"customerName": "Russell",
+	"customerEmail": "clakulocla@housat.com",
+	"description": "Support CommonJS Modules",
+	"status": "closed",
+	"closedTime": "2016-08-10T08:11:25",
+	"employeeName": "Amy"
+},
+{
+	"submissionTime": "2016-10-10T11:06:41",
+	"customerName": "Robert",
+	"customerEmail": "alishbakhancut@hushmail.ga",
+	"description": "Richer payload for custom labels/tooltips",
+	"status": "closed",
+	"closedTime": "2017-01-25T14:40:17",
+	"employeeName": "Melanie"
+},
+{
+	"submissionTime": "2016-10-13T08:22:47",
+	"customerName": "Kevin",
+	"customerEmail": "kevin@ctmailing.us",
+	"description": "Changing domain does not work properly with stacked area graph",
+	"status": "closed",
+	"closedTime": "2016-10-30T22:19:31",
+	"employeeName": "Jimmy"
+},
+{
+	"submissionTime": "2016-11-27T13:20:52",
+	"customerName": "Eric",
+	"customerEmail": "ericP@pulpmail.us",
+	"description": "Line onClick is not working.",
+	"status": "closed",
+	"closedTime": "2016-11-30T11:09:33",
+	"employeeName": "Amy"
+},
+{
+	"submissionTime": "2017-01-14T16:42:44",
+	"customerName": "Fred",
+	"customerEmail": "nofa@fake-email.pp.ua",
+	"description": "Tests don't run on Node 7",
+	"status": "open",
+	"closedTime": "",
+	"employeeName": "Amy"
+},
+{
+	"submissionTime": "2017-01-26T09:06:13",
+	"customerName": "Greg",
+	"customerEmail": "bilal-gh@bbhost.us",
+	"description": "Compilation Fails for 7.4.0 on OpenBSD 6.0",
+	"status": "open",
+	"closedTime": "",
+	"employeeName": "Melanie"
+}
+]

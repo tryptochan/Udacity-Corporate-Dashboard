@@ -1,0 +1,11 @@
+{
+	"openIssues": 8,
+	"users": {
+		"months": ["Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+		"number": [71.5, 106.4, 129.2, 144.0, 176.0, 135.6, 148.5, 216.4, 194.1, 295.6, 454.4, 430.8]
+	},
+	"issues": {
+		"months": ["Aug", "Sep", "Oct", "Nov", "Dec", "Jan"],
+		"number": [14, 17, 19, 15, 20, 16]
+	}
+}
